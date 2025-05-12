@@ -35,14 +35,5 @@ A modern **real-time chat application** built with **React**, **Firebase**, and 
 - **ESLint** – code quality and linting
 - **Concurrently** – run client and server together
 
----
 
-## 📦 Scripts
-
-| Script       | Description                                |
-|--------------|--------------------------------------------|
-| `npm run dev`     | Runs client and server concurrently          |
-| `npm run build`   | Builds the frontend for production           |
-| `npm run preview` | Previews the built frontend                  |
-| `npm run lint`    | Runs ESLint for static code analysis         |
 
